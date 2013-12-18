@@ -1,0 +1,27 @@
+{
+  "name": "multiguide",
+  "version": "0.1.0",
+  "description": "Multi-guia para museos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lautarobock/multiguide.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-jasmine-node": "*",
+    "grunt-contrib-concat": "~0.3.0"
+  },
+  "author": "Lautaro Cozzani",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "b240f22da27fd5f8115ce58e3136c480a4e2a212",
+  "dependencies": {
+    "mongoose": "~3.5.7"
+  }
+}
